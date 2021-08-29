@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Mijn eerste HTML pagina </title>
+    </head>
+    <body>
+       <h1>Dit is mijn eerste Heading</h1>
+       <hr>
+       <p>Mijn eerste paragraph</p>
+       <p>Mijn tweede paragraph</p>
+    </body>
+</html> 
